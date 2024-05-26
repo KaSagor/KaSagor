@@ -7,7 +7,7 @@ Skills: C / C++ / Java / HTML / CSS/PHP/MySQL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning PHP 
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on GitHub 
 - ⚡ Fun fact: Cristiano Ronaldista 
 
 
