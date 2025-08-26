@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Kawsar Sagor  
+### Hey there 👋, I'm Kawsar Ahamed Sagor  
 
 #### 💻 CSE Student | Aspiring Software Engineer | Tech Enthusiast  
 
@@ -16,7 +16,7 @@
 
 ### 🛠️ Skills  
 **Languages & Tools:**  
-`C` | `C++` | `Java` | `HTML` | `CSS` | `PHP` | `MySQL`
+`C` | `C++` | `Java` | `Python` |`HTML` | `CSS` |`JavaScript` | `PHP` | `MySQL`
 
 ---
 
